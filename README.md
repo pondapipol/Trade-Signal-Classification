@@ -1,4 +1,4 @@
-# mini_project
+# Signal Classification mini_project
 ML and Deep learning for signal classification
 
-for storing the project file, code is not organized
+for store project file, code is not yet organized.
